@@ -1,0 +1,14 @@
+.search-submit {
+    width: 70px;
+    height: 30px;
+    margin-left: 50px;
+    text-align: right;
+    padding-right: 10px;
+    line-height: 30px;
+    background: url(./images/filter_12_blue.png) no-repeat scroll 13px center;
+}
+
+.search-submit:hover {
+    border-radius: 5px;
+    background-color: #000;
+}

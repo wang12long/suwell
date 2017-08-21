@@ -1,0 +1,124 @@
+   /*#app a {
+     color:#666;
+   }*/
+
+  
+    /*------公共抽出部分，可放置全局使用 start------*/
+.search-label {
+    padding-right: 4px;
+    display: inline-block;
+    width: 65px;
+    text-align: right;
+}
+
+.fl {
+    float: left;
+}
+
+.fr {
+    float: right;
+}
+
+.mr40 {
+    margin-right: 30px;
+}
+/*------公共抽出部分，可放置全局使用 start------*/
+
+/*------顶部内容部分 ------*/
+.commonPart-head {
+    height: 60px;
+    line-height: 60px;
+    width: 100%;
+    box-shadow: 0 -2px 0 0 #00aaef inset;
+    text-decoration: none;
+    outline: none;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 25px;
+}
+.commonPart-head .right-btn {
+    position: relative;
+    top: 10px;
+}
+.commonPart-head .right-btn>a {
+    display: inline-block;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    overflow: hidden;
+    max-width: 120px;
+    padding: 0 15px;
+    margin: 0 3px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #fff;
+    border-right: 1px solid #24b283;
+    border-radius: 4px;
+    background: #26bf8c;
+}
+/*------顶部内容部分 en------d*/
+
+
+/*------搜索栏 ------*/
+
+.commonPart-search {
+    line-height: 30px;
+    font-size: 12px;
+    padding: 10px 0px 10px 30px;
+    overflow: hidden;
+}
+
+.search-label {
+    margin-right: 6px;
+}
+
+.search-select {
+    margin-bottom: 10px;
+}
+.search-select input{
+    height: 30px;
+    border: 1px solid #E6E6E6;
+    outline: none;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.search-select .icon{
+    display: inline-block;
+    margin-left: -24px;
+}
+/*------搜索栏 end------*/
+
+
+/*------筛选样式图标 start------*/
+.search-submit {
+        width: 70px;
+        height: 30px;
+        text-align: right;
+        padding-right: 10px;
+        line-height: 30px;
+        background: url(../images/filter_12_blue.png) no-repeat scroll 13px center; 
+        margin: 0 0 0 0;
+        position: relative;
+        left: -40px;
+    }
+.search-submit > a{
+    color: rgb(40, 152, 224);
+}
+.search-submit:hover {
+    border-radius: 5px;
+    background: url(../images/filter_12_white.png) no-repeat scroll 13px center;
+    background-color: rgb(40, 152, 224);
+}
+.search-submit:hover a{
+    color: #fff;
+}
+/*------筛选样式图标 end------*/
+
+/*------主体内容 start------*/
+.commonPart{
+    height: 100%;
+}
+.commonPart-body{
+    background-color: #fff;
+}
+/*------主体内容 end------*/

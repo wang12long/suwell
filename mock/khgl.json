@@ -1,0 +1,110 @@
+[
+    {
+        "gzry_key": "0001",
+        "qy_key": "广东省深圳市",
+        "yh_key": "深圳市第一医院",
+        "zw_key": "南山区",
+        "gzry_gh": "单次",
+        "bm_key": "666",
+        "gzry_shzt": 1,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "2"
+    },
+     {
+        "gzry_key": "0002",
+        "qy_key": "广东省广州市",
+        "yh_key": "广州市第一医院",
+        "zw_key": "",
+        "gzry_gh": "单次",
+        "bm_key": "07",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    },
+    {
+        "gzry_key": "0003",
+        "qy_key": "",
+        "yh_key": "深圳市第二医院",
+        "zw_key": "福田区",
+        "gzry_gh": "单次",
+        "bm_key": "02",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "548548"
+    },
+    {
+        "gzry_key": "0004",
+        "qy_key": "北京 北京市",
+        "yh_key": "速维第二医院",
+        "zw_key": "",
+        "gzry_gh": "单次",
+        "bm_key": "0002",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    },
+    {
+        "gzry_key": "0005",
+        "qy_key": "陕西西安市",
+        "yh_key": "西安市第一医院",
+        "zw_key": "高新区",
+        "gzry_gh": "单次",
+        "bm_key": "045",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    },
+    {
+        "gzry_key": "0006",
+        "qy_key": "",
+        "yh_key": "太原市第十医院",
+        "zw_key": "PPT",
+        "gzry_gh": "多次次",
+        "bm_key": "045",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    },
+    {
+        "gzry_key": "0007",
+        "qy_key": "山西省太原市",
+        "yh_key": "太原市第十医院",
+        "zw_key": "宝安区",
+        "gzry_gh": "多次次",
+        "bm_key": "045",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    },
+    {
+        "gzry_key": "0008",
+        "qy_key": "山西省太原市",
+        "yh_key": "太原市第十医院",
+        "zw_key": "雁塔区",
+        "gzry_gh": "多次次",
+        "bm_key": "045",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    },
+    {
+        "gzry_key": "0009",
+        "qy_key": "山西省太原市",
+        "yh_key": "太原市第十医院",
+        "zw_key": "",
+        "gzry_gh": "多次次",
+        "bm_key": "045",
+        "gzry_shzt": 12,
+        "gzry_status": 1,
+        "gzry_xgsj": "查看 编辑",
+        "gzry_xgr": "478"
+    }
+]
